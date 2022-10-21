@@ -7,6 +7,7 @@
     *
 
 """
+
 tinggi = 5
 
 for baris in range(tinggi):
